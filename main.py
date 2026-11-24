@@ -68,13 +68,54 @@ Pass 2 (final): "One star. She types on the laptop I was sleeping on, then
    character, with the wrong end of itself. "Acts surprised" keeps the
    deadpan review voice: the human is the unreasonable one. 111 characters,
    one line, inside the 1-200 gate.
+
+REVISION PASS (24 Nov 2026)
+
+Critique of the chosen line, honestly: it is strong on criteria 2, 3 and 5
+— the laptop keyboard is a specific, recognisable complaint straight from
+the brief, the voice is feline throughout (the cat answers emails, with its
+butt, and the human's surprise is the absurd part), and the deadpan
+one-star shape holds. Two weak spots: (1) "answer her emails" undersells
+the scale of the damage — one email or the whole inbox? A cat that sat on
+the keyboard would not stop at one reply. (2) The middle, "then acts
+surprised when", is doing its setup work and was left alone; "acts
+surprised" is better than "is shocked" because it implies the human is
+performing innocence, which is exactly the cat's judgement of her.
+Considered tightening "the laptop I was sleeping on" to "the laptop I sleep
+on" (3 characters shorter, tighter rhythm) but rejected it: "was sleeping"
+keeps the interrupted-nap scene, and the interruption is the complaint's
+core — a habit claim is weaker than a crime in progress.
+
+Fresh alternatives weighed and cut:
+
+F. "One star. I sat on her keyboard to help, and she called it a typo. I
+   have never been so insulted."
+   The indignation sting ("never been so insulted") is very feline, and
+   "to help" is a nice cat-logic setup. Loses to the current line because
+   its punch is a sentiment, not an image: being insulted is a feeling,
+   while answering emails with one's butt is a picture a stranger laughs at
+   on first read. The current line's complaint is also more specific — the
+   laptop as the cat's warm bed, not just a keyboard sat on.
+
+G. "One star. She moved my sunbeam, locked the door, then asked why her
+   plants are on the floor. Reasons."
+   The setup stacks two good cat grievances, but the sting, "Reasons", is a
+   shrug rather than a punch — it gestures at a turn without delivering
+   one, and it reads as the cat trailing off instead of landing the review.
+
+Before/after: "when I answer her emails with my butt" -> "when I answer
+ALL her emails with my butt" (111 -> 115 characters). The single word
+"all" scales the damage to the whole inbox: the cat did not reply once, it
+answered everything, with its butt. Nothing else changed — the setup, the
+deadpan voice, and the last-five-words sting are untouched, and the line
+stays one line inside the 1-200 gate.
 """
 
 import os
 
 LINE = (
     "One star. She types on the laptop I was sleeping on, then acts "
-    "surprised when I answer her emails with my butt."
+    "surprised when I answer all her emails with my butt."
 )
 
 

@@ -8,13 +8,13 @@ Entry for the [make.fun bounty](https://make.fun/bounty/u-motasimfuad-make-the-a
 
 ## The review
 
-> One star. She types on the laptop I was sleeping on, then acts surprised when I answer her emails with my butt.
+> One star. She types on the laptop I was sleeping on, then acts surprised when I answer all her emails with my butt.
 
-111 characters, one line.
+115 characters, one line.
 
 ## How it runs
 
-`python3 main.py` (Python 3, stdlib only) writes the review to `$MAKEFUN_OUTPUT_DIR/entry.txt` (falling back to `/output/entry.txt`), prints it, then reads the file back and asserts it is byte-for-byte the intended line inside the 1–200 character gate. The full decision record — five candidates weighed, two genuine writing passes on the chosen review — is the docstring at the top of `main.py`.
+`python3 main.py` (Python 3, stdlib only) writes the review to `$MAKEFUN_OUTPUT_DIR/entry.txt` (falling back to `/output/entry.txt`), prints it, then reads the file back and asserts it is byte-for-byte the intended line inside the 1–200 character gate. The full decision record — five candidates weighed, two genuine writing passes on the chosen review, and a revision pass — is the docstring at the top of `main.py`.
 
 ## Referral
 
